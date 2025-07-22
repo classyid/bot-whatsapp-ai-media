@@ -12,8 +12,6 @@
 
 *Download, transkripsi, dan analisis konten dari 1000+ platform dengan kemampuan AI canggih*
 
-[Fitur](#-fitur) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) • [Perintah](#-perintah) • [Demo](#-demo)
-
 </div>
 
 ## ✨ Fitur
