@@ -54,7 +54,7 @@
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/username/bot-whatsapp-ai-media.git
+git clone https://github.com/classyid/bot-whatsapp-ai-media.git
 cd bot-whatsapp-ai-media
 ```
 
@@ -295,17 +295,9 @@ Project ini dilisensikan dengan MIT License - lihat file [LICENSE](LICENSE) untu
 
 Tool ini hanya untuk keperluan edukasi dan personal. User bertanggung jawab untuk mematuhi terms of service dari platform yang mereka download kontennya. Hormati hak cipta dan intellectual property.
 
-## 🆘 Dukungan
-
-Jika mengalami masalah atau punya pertanyaan:
-
-1. Cek halaman [Issues](../../issues)
-2. Buat issue baru dengan informasi detail
-3. Join diskusi komunitas
-
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=username/bot-whatsapp-ai-media&type=Date)](https://star-history.com/#username/bot-whatsapp-ai-media&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=classyid/bot-whatsapp-ai-media&type=Date)](https://star-history.com/#classyid/bot-whatsapp-ai-media&Date)
 
 ---
 
